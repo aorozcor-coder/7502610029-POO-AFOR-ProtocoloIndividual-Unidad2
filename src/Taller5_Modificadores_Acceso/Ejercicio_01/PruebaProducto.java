@@ -1,4 +1,4 @@
-package Taller5_Modificadores_Acceso.Ejercicio_02;
+package Taller5_Modificadores_Acceso.Ejercicio_01;
 
 public class PruebaProducto {
     public static void main(String[] args) {
